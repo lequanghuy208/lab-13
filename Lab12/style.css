@@ -1,0 +1,20 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(/Lab12/Lab12//img//clojure.png);
+    
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(/Lab12/Lab12/img/python.png);
+}
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(/Lab12/Lab12/img/csharp.png);
+}
+.carousel-item{
+    height: 32rem;
+}
